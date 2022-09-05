@@ -2,15 +2,15 @@
 
 A new Flutter project.
 
-## Getting Started
+## Tugas Praktikum
 
-This project is a starting point for a Flutter application.
+# 1. Selesaikan Praktikum tersebut, lalu dokumentasikan dan push ke repository Anda berupa screenshot hasil pekerjaan beserta penjelasannya di file README.md!
+![plot](images/1.png)
+Pada praktikum ini menambahkan plugin auto_size_text dan menerapkannya, yang hasil output project tersebut terdapat perbedaan diantara teks yang dibaris pertama dan baris kedua pernedaanya terdapat pada ukuran font dan warna background.
+# 2. Jelaskan maksud dari langkah 2 pada praktikum tersebut!
 
-A few resources to get you started if this is your first Flutter project:
+# 3. Jelaskan maksud dari langkah 5 pada praktikum tersebut!
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+# 4. Pada langkah 6 terdapat dua widget yang ditambahkan, jelaskan fungsi dan perbedaannya!
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# 5. Jelaskan maksud dari tiap parameter yang ada di dalam plugin auto_size_text berdasarkan tautan pada dokumentasi ini ! 
