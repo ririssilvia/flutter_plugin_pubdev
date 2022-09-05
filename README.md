@@ -46,6 +46,7 @@ Container(
 - jawab :
 
     | Parameter  | Description |
+    | :---:             | :---:          |
 	| Key*  | Mengontrol bagaimana satu widget menggantikan widget lain di tree.  |
 	| textKey  | Mengatur key untuk widget Teks yang dihasilkan  |
 	| style* | Jika bukan null, Style yang digunakan untuk sebuah teks seperti color, fontsize, dsb |
