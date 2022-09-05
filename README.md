@@ -41,7 +41,7 @@ Container(
 - Pada container pertama child diisi dengan widget class RedTextWidget untuk menerapkan penggunaan dari  Plugin AutoSizeText. 
 - Pada container kedua child diisi dengan widget text biasa yang tanpa mengunakan Plugin untuk melihat perbedaan dari hasil tampilan antara widget text biasa dan widget class RedTextWidget. Perbedaanya jika menggunakan Plugin maka terlihat lebih rapi dan teratur dan jika tanpa pugin maka text yang di tampilkan kurang teratur.
 
-# 5. Jelaskan maksud dari tiap parameter yang ada di dalam plugin auto_size_text berdasarkan tautan pada dokumentasi ini ! 
+### 5. Jelaskan maksud dari tiap parameter yang ada di dalam plugin auto_size_text berdasarkan tautan pada dokumentasi ini ! 
 
 - jawab :
 
