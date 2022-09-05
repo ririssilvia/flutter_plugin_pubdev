@@ -2,9 +2,9 @@
 
 A new Flutter project.
 
-## Tugas Praktikum
+# Tugas Praktikum
 
-# 1. Selesaikan Praktikum tersebut, lalu dokumentasikan dan push ke repository Anda berupa screenshot hasil pekerjaan beserta penjelasannya di file README.md!
+## 1. Selesaikan Praktikum tersebut, lalu dokumentasikan dan push ke repository Anda berupa screenshot hasil pekerjaan beserta penjelasannya di file README.md!
 ![plot](images/1.png)
 Pada praktikum ini menambahkan plugin auto_size_text dan menerapkannya, yang hasil output project tersebut terdapat perbedaan diantara teks yang dibaris pertama dan baris kedua pernedaanya terdapat pada ukuran font dan warna background.
 # 2. Jelaskan maksud dari langkah 2 pada praktikum tersebut!
